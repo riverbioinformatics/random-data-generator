@@ -10,7 +10,7 @@
             "key": "file_size",
             "is_storage": true,
             "is_required": true,
-            "help": "The output directory",
+            "help": "File size in MB",
             "value": 50
         }
     ]
