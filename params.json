@@ -1,0 +1,17 @@
+{
+    "params": [
+        {
+            "key": "output_dir",
+            "is_storage": true,
+            "is_required": true,
+            "help": "The output folder"
+        },
+        {
+            "key": "file_size",
+            "is_storage": true,
+            "is_required": true,
+            "help": "The output directory",
+            "value": 50
+        }
+    ]
+}
